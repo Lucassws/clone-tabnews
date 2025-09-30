@@ -1,5 +1,10 @@
 function Home() {
-  return <h1>Aloo camaaaradaaa! Bora Smitezinho?</h1>;
+  return (
+    <div>
+      <h1>Karoline Menegazzo</h1>
+      <img src="/karol.png" alt="Karol" width="300" />
+    </div>
+  );
 }
 
 export default Home;
