@@ -20,8 +20,8 @@ export default function ContactSection() {
     {
       icon: Phone,
       title: 'Telefone',
-      value: '(47) 99163-5656',
-      link: 'tel:47991635656',
+      value: '(47) 99156-9980',
+      link: 'tel:47991569980',
     },
     {
       icon: Mail,
