@@ -20,7 +20,7 @@ export default function Footer() {
 
           <div className="flex flex-col sm:flex-row gap-4 text-sm text-gray-400">
             <a href="tel:47991635656" className="hover:text-[#827751] transition-colors">
-              (47) 99163-5656
+              (47) 99156-9980
             </a>
             <span className="hidden sm:block">•</span>
             <a href="mailto:karolmenegazzo.adv@gmail.com" className="hover:text-[#827751] transition-colors">

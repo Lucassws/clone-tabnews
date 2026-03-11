@@ -38,7 +38,7 @@ export default function HeroSection() {
           <div className="flex justify-center mb-8">
             <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-[#827751] shadow-2xl">
               <Image
-                src="https://headshots-inc.com/wp-content/uploads/2023/03/professional-Headshot-Example-2-1.jpg"
+                src="/perfil.JPEG"
                 alt="Karoline Menegazzo"
                 fill
                 className="object-cover"
@@ -67,10 +67,10 @@ export default function HeroSection() {
               Agende uma Consulta
             </button>
             <a
-              href="tel:47991635656"
+              href="tel:47991569980"
               className="border-2 border-[#827751] text-[#827751] px-8 py-4 rounded-md hover:bg-[#827751] hover:text-white transition-all text-lg font-medium"
             >
-              (47) 99163-5656
+              (47) 99156-9980
             </a>
           </div>
         </motion.div>

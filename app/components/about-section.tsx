@@ -60,7 +60,7 @@ export default function AboutSection() {
           >
             <div className="relative aspect-[4/5] rounded-lg overflow-hidden shadow-2xl">
               <Image
-                src="https://photos.peopleimages.com/picture/202406/3076869-man-business-and-shaking-hands-in-office-for-meeting-lawyer-and-client-in-legal-consultation-together-for-agreement-professional-negotiation-and-thank-you-gesture-partnership-and-opportunity-zoom_90.jpg"
+                src="/bodyform.png"
                 alt="Atendimento profissional"
                 fill
                 className="object-cover"

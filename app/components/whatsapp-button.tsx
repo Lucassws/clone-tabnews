@@ -27,7 +27,7 @@ export default function WhatsAppButton() {
   }, [isVisible])
 
   const handleWhatsAppClick = () => {
-    const phone = '5547991635656'
+    const phone = '5547991569980'
     const message = encodeURIComponent('Olá! Gostaria de agendar uma consulta.')
     window.open(`https://wa.me/${phone}?text=${message}`, '_blank')
   }
