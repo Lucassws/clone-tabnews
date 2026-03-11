@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #827751;
+  --color-dark: #282828;
+  --color-gray-dark: #4d4b4b;
+  --color-gray: #737373;
+  --color-beige: #948b6b;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Suppress hydration warnings */
+[data-hydration-error] {
+  display: none !important;
+}
